@@ -3,9 +3,8 @@
 
 ## Well, hello there 👋
 
-- 👋 Hi, I’m Isanka Thalagala
-- 📫 isanka.thalagala@gmail.com
-- ([https://github.com/gnomezgrave/A-Star](https://www.linkedin.com/in/thalagala/))
+- 👋 Hi, I’m Isanka Thalagala (isanka.thalagala@gmail.com)
+- 📫[LinkedIn.com/thalagala](https://www.linkedin.com/in/thalagala/)
 
 ### Who am I?
 
