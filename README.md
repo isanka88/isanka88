@@ -5,7 +5,7 @@
 
 - 👋 Hi, I’m Isanka Thalagala
 - 📫 isanka.thalagala@gmail.com
-- * [LinkedIn]([https://github.com/gnomezgrave/A-Star](https://www.linkedin.com/in/thalagala/))
+- ([https://github.com/gnomezgrave/A-Star](https://www.linkedin.com/in/thalagala/))
 
 ### Who am I?
 
